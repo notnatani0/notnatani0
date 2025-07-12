@@ -1,16 +1,13 @@
-## Hi there 👋
+ ### Hii there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**notnatani0/notnatani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I’m [**Sushant aKa Sushiee**](), trying to be a full-stack developer with a slight addiction to AI.
 
-Here are some ideas to get you started:
+  Currently learning how to automate my life with AI and wondering why this one bug keeps reappearing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Outside of code, you’ll find me watching anime, either hard stuck in Valo, or pretending to read a book I never finish. Sometimes I even do all three at once. Multitasking? More like multi-escaping.
+
+  #### Fun Facts:
+
+  * Me and coding? It’s a toxic situationship.
+  * My side projects have side projects.
+  * Fixed a bug by staring at it. Magic? Maybe. Sleep-deprived? Definitely.
